@@ -48,7 +48,7 @@ names, it doesn't need to be uploaded from the user.
 
 ## Guidelines
 
-* Use any of the major languages that can be run on OSX
+* Use any of the major languages that can run on OSX
 * The app can be client only or client-server split, up to you
 * Do not fork this repo, create a clean one for a solution
 * Feel free to ask for any clarification
