@@ -1,4 +1,4 @@
-# Batting Average App
+# Batting Averages Backend Exercise
 
 Batting average is simple and a common way to measure batter’s performance.
 Create an app that will ingest a raw CSV file with player statistics and
